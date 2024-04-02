@@ -1,5 +1,5 @@
 # TutorManagementModule
-A Console-Based Tutor Management Program using Doubly Linked List
+A Console-Based Tutor Management Program using *Doubly Linked List* 
 
 Functionality: 
   1. Create Tutor
