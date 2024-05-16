@@ -15,7 +15,7 @@ Functionality:
      - Faculty Summary Report
   8. Commits Changes to File
 
-Main Menu of Tutor Management System:
+Main Menu of Tutor Management System:<br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/fb9ecb72-3e3d-4f5a-801f-c42d1c03699b)
 
 Add Tutors: 
