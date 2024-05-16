@@ -15,27 +15,27 @@ Functionality:
      - Faculty Summary Report
   8. Commits Changes to File
 
-Main Menu of Tutor Management System:<br>
+## Main Menu of Tutor Management System:<br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/fb9ecb72-3e3d-4f5a-801f-c42d1c03699b)
-<br>
-Add Tutors: <br>
+<br><br>
+### Add Tutors: <br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/047ce20f-8e42-4719-abf7-39c7186a878b)
-<br>
-Remove Tutors: <br>
+<br><br>
+### Remove Tutors: <br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/01659483-8f8d-4be8-af1a-f71e0a6549b6)
-<br>
-Retrieve Tutors: <br>
+<br><br>
+### Retrieve Tutors: <br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/9243e994-9691-470b-b6c3-1776abc57658)
-<br>
-Amend Tutor Details:<br>
+<br><br>
+### Amend Tutor Details:<br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/b57862b1-c788-4aec-9ef2-a34ec338b1c3)
-<br>
-Filtering (Rating): <br>
+<br><br>
+### Filtering (Rating): <br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/5b254a4a-c77d-4e44-b0b5-68e3440a90dc)
-<br>
-Report Generation (Top 5 Highest Rated Tutors): <br>
+<br><br>
+### Report Generation (Top 5 Highest Rated Tutors): <br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/cbb6f58c-998f-48b7-857d-3874e2eee51d)
-<br>
-Report Generation (Faculty Summary Report): <br>
+<br><br>
+### Report Generation (Faculty Summary Report): <br>
 ![image](https://github.com/Bernardbyy/TutorManagementModule/assets/75737130/d35a8ec6-4731-4bb2-ab1a-a00031a8729b)
-<br>
+<br><br>
