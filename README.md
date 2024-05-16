@@ -1,5 +1,5 @@
-# TutorManagementModule
-A Console-Based Tutor Management Program using *Doubly Linked List* and *Bubble Sort*.
+# TutorManagementModule 🧑🏻‍🏫
+A Console-Based Tutor Management Program using *Doubly Linked List* ↔️ and *Bubble Sort* 🧋.
 
 Functionality: 
   1. Create Tutor
